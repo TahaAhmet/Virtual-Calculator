@@ -9,10 +9,10 @@ This is a simple calculator program that allows users to perform basic arithmeti
 **Real-time Calculation:** Computes the result of the mathematical expression in real-time.
 
 # Getting Started
-Prerequisites
-Python 3.7 version
-OpenCV (cv2) library
-cvzone library (HandTrackingModule)
+**Prerequisites**
+-Python 3.7 version
+-OpenCV (cv2) library
+-cvzone library (HandTrackingModule)
 # Installation
 **Clone the repository:**
 git clone https://github.com/TahaAhmet/Virtual-Calculator.git
